@@ -1,0 +1,6 @@
+<?php
+$s = "Assalamualaikum calon S.Kom";
+
+echo $s;
+
+?>
